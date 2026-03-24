@@ -12,4 +12,3 @@ fail(1) is a dumb little ad-hoc HTTP server which can be configured to fail and 
 
 Error rate. Example of 1/3 failures: `?error_rate=3`.
 
-
